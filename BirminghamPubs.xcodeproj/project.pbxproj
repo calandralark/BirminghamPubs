@@ -44,6 +44,7 @@
 		33CB8D312A0A9229004B8C94 /* BirminghamPubsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BirminghamPubsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		33CB8D352A0A9229004B8C94 /* BirminghamPubsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirminghamPubsUITests.swift; sourceTree = "<group>"; };
 		33CB8D372A0A9229004B8C94 /* BirminghamPubsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirminghamPubsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		33CB8D442A0A9368004B8C94 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +97,7 @@
 			children = (
 				33CB8D1A2A0A9227004B8C94 /* BirminghamPubsApp.swift */,
 				33CB8D1C2A0A9227004B8C94 /* ContentView.swift */,
+				33CB8D442A0A9368004B8C94 /* README.md */,
 				33CB8D1E2A0A9228004B8C94 /* Assets.xcassets */,
 				33CB8D202A0A9228004B8C94 /* Preview Content */,
 			);
